@@ -274,3 +274,10 @@ body {
     background-color: inherit;
     cursor: pointer;
 }
+
+.server-img {
+    width: 62px;
+    height: 62px;
+    margin-top: -12px;
+    margin-right: -7px;
+}
