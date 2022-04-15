@@ -16,8 +16,6 @@ body {
     width: 600px;
 }
 
-/* Header-search ================================================================================================= */
-
 .header {
     border: 1px solid #000;
 }
@@ -44,8 +42,6 @@ body {
     background-color: inherit;
     padding: 7px 17px 8px 0;
 }
-
-/* View Temperature ================================================================================================= */
 
 .main__block {
     display: flex;
@@ -99,8 +95,6 @@ body {
     background-color: inherit;
 }
 
-/* details ============================================================================================= */
-
 .main__block-details-city {
     padding: 33px 0 0 17px;
 }
@@ -112,8 +106,6 @@ body {
 .weather-conditions {
     padding-bottom: 12px;
 }
-
-/* forecast ============================================================================================= */
 
 .main__block-forecast {
     overflow: auto;
@@ -167,8 +159,6 @@ body {
     padding: 0 10px 9px 0;
 }
 
-/* <a> tab ====================================================================================== */
-
 .content__item {
     display: none;
 }
@@ -203,8 +193,6 @@ body {
     background: black;
     color: white;
 }
-
-/* Locations ============================================================================================= */
 
 .main__block-locations {
     width: 302px;
